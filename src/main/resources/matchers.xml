@@ -1,0 +1,13 @@
+<matchers>
+
+  <!-- CSV extension -->
+  <factory class="de.mukis.docmatcher.csv.matcher.Equals"/>
+  <factory class="de.mukis.docmatcher.csv.matcher.EqualsTo"/>
+  <factory class="de.mukis.docmatcher.csv.matcher.GreaterThan"/>
+  <factory class="de.mukis.docmatcher.csv.matcher.LessThan"/>
+  <factory class="de.mukis.docmatcher.csv.matcher.Sum"/>
+
+</matchers>
+<!-- 
+java -cp hamcrest-generator-1.3.jar org.hamcrest.generator.config.XmlConfigurator matchers.xml src/main/java de.mukis.docmatcher.csv.Matchers src/main/java/de/mukis/docmatcher/csv
+ -->
