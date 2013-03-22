@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/muuki88/docmatcher.png?branch=master)](https://travis-ci.org/muuki88/docmatcher)
 ## Document Matcher
 
 This project aims to provide some easy-to-use [Hamcrest Matchers](https://code.google.com/p/hamcrest/wiki/Tutorial)
