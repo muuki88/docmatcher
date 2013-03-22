@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<rss version="0.91">
+  <channel>
+    <title>docmatcher - Checkstyle report</title>
+    <link>http://nexus.sonatype.org/oss-repository-hosting.html/docmatcher</link>
+    <description>docmatcher - Checkstyle report</description>
+    <language>en-us</language>
+    <copyright>&#169;2013</copyright>
+    <item>
+      <title>File: 13,
+             Errors: 167,
+             Warnings: 0,
+             Infos: 0
+      </title>
+            <link>http://nexus.sonatype.org/oss-repository-hosting.html/docmatcher/checkstyle.html</link>
+      <description>
+        <p>Click <a href="http://nexus.sonatype.org/oss-repository-hosting.html/docmatcher/checkstyle.html">here</a> for the full Checkstyle report.</p>
+
+        <table summary="Files" boder="1">
+          <thead>
+            <tr>
+              <th>Files</th>
+              <th style="width:30px;"><abbr title="Info">I</abbr></th>
+              <th style="width:30px;"><abbr title="Warning">W</abbr></th>
+              <th style="width:30px;"><abbr title="Error">E</abbr></th>
+            </tr>
+          </thead>
+          <tbody>
+                          <tr>
+                <td>
+                  <a href="http://nexus.sonatype.org/oss-repository-hosting.html/docmatcher/checkstyle.html#de.mukis.docmatcher.csv.Columns.java">de/mukis/docmatcher/csv/Columns.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  19
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://nexus.sonatype.org/oss-repository-hosting.html/docmatcher/checkstyle.html#de.mukis.docmatcher.csv.matcher.LessThan.java">de/mukis/docmatcher/csv/matcher/LessThan.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  11
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://nexus.sonatype.org/oss-repository-hosting.html/docmatcher/checkstyle.html#de.mukis.docmatcher.csv.matcher.CsvRowMatcher.java">de/mukis/docmatcher/csv/matcher/CsvRowMatcher.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  5
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://nexus.sonatype.org/oss-repository-hosting.html/docmatcher/checkstyle.html#de.mukis.docmatcher.csv.CsvDocument.java">de/mukis/docmatcher/csv/CsvDocument.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  27
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://nexus.sonatype.org/oss-repository-hosting.html/docmatcher/checkstyle.html#de.mukis.docmatcher.csv.CsvRule.java">de/mukis/docmatcher/csv/CsvRule.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  14
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://nexus.sonatype.org/oss-repository-hosting.html/docmatcher/checkstyle.html#de.mukis.docmatcher.csv.de.mukis.docmatcher.csv.Matchers.java">de/mukis/docmatcher/csv/de/mukis/docmatcher/csv/Matchers.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://nexus.sonatype.org/oss-repository-hosting.html/docmatcher/checkstyle.html#de.mukis.docmatcher.csv.matcher.Sum.java">de/mukis/docmatcher/csv/matcher/Sum.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  13
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://nexus.sonatype.org/oss-repository-hosting.html/docmatcher/checkstyle.html#de.mukis.docmatcher.de.mukis.docmatcher.Matchers.java">de/mukis/docmatcher/de/mukis/docmatcher/Matchers.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://nexus.sonatype.org/oss-repository-hosting.html/docmatcher/checkstyle.html#de.mukis.docmatcher.csv.matcher.CsvMatcher.java">de/mukis/docmatcher/csv/matcher/CsvMatcher.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  38
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://nexus.sonatype.org/oss-repository-hosting.html/docmatcher/checkstyle.html#de.mukis.docmatcher.csv.matcher.GreaterThan.java">de/mukis/docmatcher/csv/matcher/GreaterThan.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  10
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://nexus.sonatype.org/oss-repository-hosting.html/docmatcher/checkstyle.html#de.mukis.docmatcher.csv.matcher.EqualsTo.java">de/mukis/docmatcher/csv/matcher/EqualsTo.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  10
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://nexus.sonatype.org/oss-repository-hosting.html/docmatcher/checkstyle.html#de.mukis.docmatcher.csv.matcher.CsvElementMatcher.java">de/mukis/docmatcher/csv/matcher/CsvElementMatcher.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  5
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://nexus.sonatype.org/oss-repository-hosting.html/docmatcher/checkstyle.html#de.mukis.docmatcher.csv.matcher.Equals.java">de/mukis/docmatcher/csv/matcher/Equals.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  11
+                </td>
+              </tr>
+                      </tbody>
+        </table>
+        
+      </description>
+    </item>
+  </channel>
+</rss>
+
