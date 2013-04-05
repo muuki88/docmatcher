@@ -34,7 +34,7 @@
     </properties>
 
     <scm>
-        <url>https://github.com/de.mukis/docmatcher</url>
+        <url>https://github.com/muuki88/docmatcher</url>
         <connection>scm:git:git://github.com/muuki88/docmatcher.git</connection>
         <developerConnection>scm:git:git@github.com:muuki88/docmatcher.git</developerConnection>
     </scm>
